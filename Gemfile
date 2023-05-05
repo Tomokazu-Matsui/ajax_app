@@ -56,4 +56,8 @@ gem 'pry-rails'
 
 group :production do
   gem 'pg'
+<<<<<<< Updated upstream
 end
+=======
+end
+>>>>>>> Stashed changes
